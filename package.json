@@ -1,0 +1,14 @@
+{
+  "name": "sync-provider",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "YDoc Sync-Provider",
+  "repository": "git@github.com:indreshvishwakarma/sync-provider.git",
+  "author": "azad <indresh@sixerclass.com>",
+  "dependencies": {
+    "p-queue": "^6.6.2",
+    "y-protocols": "^1.0.4",
+    "yjs": "^13.5.1"
+  }
+}
